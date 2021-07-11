@@ -17,3 +17,17 @@ body {
 html {
 	background-color: transparent;
 }
+
+h2 {
+	position: relative;
+	padding-bottom: 0.5em;
+	border-bottom: 4px solid #DDD;
+}
+h2::after {
+	position: absolute;
+	content: "  ";
+	border-bottom: solid 4px #ec4747;
+	bottom: -4px;
+	width: 8%;
+	display: block;
+}
