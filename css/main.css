@@ -31,3 +31,7 @@ h2::after {
 	width: 8%;
 	display: block;
 }
+
+.re-size {
+	width: 200px;
+}
