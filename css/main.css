@@ -36,6 +36,6 @@ h2::after {
 	width: 200px;
 }
 
-p {
+p.center {
 	text-align: center
 }
