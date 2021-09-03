@@ -35,3 +35,7 @@ h2::after {
 .re-size {
 	width: 200px;
 }
+
+p {
+	text-align: center
+}
